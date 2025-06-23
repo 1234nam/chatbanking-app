@@ -1,0 +1,14 @@
+.App{
+  font-family: sans-serif;
+  background-color: #f0f8ff;
+  padding: 20px;
+  text-align: center;
+}
+
+.feature-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+}
